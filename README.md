@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=cryacry&layout=compact&theme=tokyonight)
+
+
 <!--
 **cryacry/cryacry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
