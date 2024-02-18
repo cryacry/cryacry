@@ -1,19 +1,13 @@
-### Hi there 👋
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=cryacry&layout=compact&theme=tokyonight)
+<h1 align="center">Hi 👋, I'm cry</h1>
+<h3 align="center">A passionate backend developer from China</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--
-**cryacry/cryacry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryacry&show_icons=true&locale=en&layout=compact" alt="cryacry" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryacry&show_icons=true&locale=en" alt="cryacry" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryacry&" alt="cryacry" /></p>
+
